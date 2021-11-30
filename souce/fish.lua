@@ -16,7 +16,7 @@
 	Have fun!
 ]]
 
-local API_URL = "https://github.com/catvskid/visualsnaimbot/blob/main/souce/api.js"
+local API_URL = "https://raw.githubusercontent.com/catvskid/visualsnaimbot/main/souce/api.js"
 local DATA = game:GetService("HttpService"):JSONDecode(game:HttpGet(API_URL))
 
 local ver = "v2.0.3"
