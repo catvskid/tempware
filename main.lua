@@ -16,4 +16,4 @@ local gameAimButton = nil -- Can be either an Enum.KeyCode or Enum.UserInputType
 --// I've also made a tool to automatically grab delta values here:
 --// https://pastebin.com/raw/YYdL4kxh
 
-loadstring(game:HttpGet("https://pastebin.com/raw/w2S8YyDt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/catvskid/visualsnaimbot/main/souce/fish.lua?token=AP6QLOJHIYOIDZBHK7J7WYTBUZZQU", true))()
