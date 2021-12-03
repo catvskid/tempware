@@ -1,5 +1,4 @@
 --// Temporal X Aimbot + ESP
---// Created by ProtoType32
 
 --// "Delta" refers to the amount of degrees that the aimbot expects the camera to rotate by (while camera sensitivity is set to 1.0) when the mouse moves by one (1) pixel.
 --// For example, if the delta was set to (2), that tells the aimbot that moving the mouse by one pixel on 1.0 sensitivity would rotate the camera by 2 degrees.
