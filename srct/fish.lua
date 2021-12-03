@@ -6,10 +6,6 @@
 	/_/  \___/_/ /_/ /_/ .___/\____/_/   \__,_/_/   /_/|_|  
                   /_/                                   
 	Aimbot + ESP
-	by ProtoType32
-	ProtoType32#9772 on Discord
-	discord.me/temporal - Join for updates!
-	
 	Shouldn't you be using the loadstring? Honestly, what exploit has a mouse movement function but NOT loadstring? Just use KRNL or something, dude.
 	Unless you're looking at the source code for some other reason, like fixing bugs. If that's the case, please tell me if there's actually a bug that needs fixing.
 	
