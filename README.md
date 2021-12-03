@@ -1,2 +1,0 @@
-# visualsnaimbot
-best visuals atm
